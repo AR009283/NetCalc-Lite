@@ -22,6 +22,3 @@ Professional Networking Toolkit built with Python.
 - Socket
 - ipaddress
 
-## Author
-
-Your Name
