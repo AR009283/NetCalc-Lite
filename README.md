@@ -22,3 +22,5 @@ Professional Networking Toolkit built with Python.
 - Socket
 - ipaddress
 
+## Author
+- S.R.M. Anudi Ranshika Samaradiwakara
